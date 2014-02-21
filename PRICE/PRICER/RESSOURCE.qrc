@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Brownien.png</file>
+        <file>Levy.png</file>
+        <file>logo.png</file>
+    </qresource>
+</RCC>
